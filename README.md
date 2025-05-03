@@ -16,12 +16,12 @@ Origine : [Lapin Blanc](https://hackropole.fr/fr/challenges/hardware/fcsc2023-ha
 > http://localhost
 
 #### tentez 
-> nc lapin-blanc.cyrhades.fr:4000
+> nc lapin-blanc.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
